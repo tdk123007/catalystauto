@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2558000000049143",
+      "name": "ctest",
+      "domain": {
+        "id": "1007006515",
+        "name": "ctest-68434782.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "68434782",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

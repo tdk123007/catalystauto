@@ -1,0 +1,14 @@
+{
+  "client": {
+    "source": "client"
+  },
+  "functions": {
+    "targets": [
+      "CircuitCases"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  }
+}
